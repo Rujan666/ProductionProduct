@@ -1,0 +1,9 @@
+ipython
+keras
+livelossplot
+matplotlib
+numpy
+Pillow
+seaborn
+tensorflow
+utils
